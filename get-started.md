@@ -532,6 +532,7 @@ Markdown | Less | Pretty
 
 ```
 > Blockquotes are very handy in email to emulate reply text.
+
 > [!NOTE]
 > This line is part of the same quote.
 
